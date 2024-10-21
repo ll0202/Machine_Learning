@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/辞岁男孩.png</file>
+    <file>icon/b_r.png</file>
+    <file>icon/closeCircle.png</file>
+    <file>icon/辞岁女孩.png</file>
+    <file>icon/登录.png</file>
+    <file>icon/机器人.png</file>
+    <file>icon/锦鲤戏水.png</file>
+    <file>icon/锦鲤游玩.png</file>
+    <file>icon/美丽茶花.png</file>
+    <file>icon/年年有鱼.png</file>
+    <file>icon/喜鹊.png</file>
+    <file>icon/郁金香.png</file>
+    <file>icon/注册.png</file>
+  </qresource>
+</RCC>
